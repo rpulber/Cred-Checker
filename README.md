@@ -25,9 +25,11 @@ The Multi-Connection Automation Script provides an easy-to-use solution for auto
 python3 cred-checker.py
 ```
 
-#Requirements
+# Requirements
 Python 3
-pexpect library (install using pip install pexpect)
+pexpect library (install using pip install expect)
+smbclient
+rpcclient
 
 # Installation
 git clone https://github.com/rpulber/Cred-Checker.git
