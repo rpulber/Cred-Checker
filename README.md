@@ -30,7 +30,7 @@ Python 3
 pexpect library (install using pip install pexpect)
 
 # Installation
-git clone https://github.com/rpulber/multi-connection-script.git
+git clone https://github.com/rpulber/Cred-Checker.git
 
 # Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
